@@ -8,7 +8,6 @@
  ****************************************************************************/
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class Stack {
 	private static final ArrayList<Integer> stackArray = new ArrayList<Integer>();
